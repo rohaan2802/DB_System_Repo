@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "681c78b4d9c4fc45be1b84f1"
+  },
+  "empno": 7369,
+  "ename": "SMITH",
+  "job": "CLERK",
+  "mgr": 7902,
+  "hiredate": {
+    "$date": "1980-12-17T00:00:00.000Z"
+  },
+  "sal": 800,
+  "comm": null,
+  "department": {
+    "deptno": 20,
+    "dname": "RESEARCH",
+    "loc": "DALLAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "681c78b4d9c4fc45be1b84f2"
+  },
+  "empno": 7499,
+  "ename": "ALLEN",
+  "job": "SALESMAN",
+  "mgr": 7698,
+  "hiredate": {
+    "$date": "1981-02-20T00:00:00.000Z"
+  },
+  "sal": 1600,
+  "comm": 300,
+  "department": {
+    "deptno": 30,
+    "dname": "SALES",
+    "loc": "CHICAGO"
+  }
+},
+{
+  "_id": {
+    "$oid": "681c78b4d9c4fc45be1b84f3"
+  },
+  "empno": 7521,
+  "ename": "WARD",
+  "job": "SALESMAN",
+  "mgr": 7698,
+  "hiredate": {
+    "$date": "1981-02-22T00:00:00.000Z"
+  },
+  "sal": 1250,
+  "comm": 500,
+  "department": {
+    "deptno": 30,
+    "dname": "SALES",
+    "loc": "CHICAGO"
+  }
+},
+{
+  "_id": {
+    "$oid": "681c78b4d9c4fc45be1b84f4"
+  },
+  "empno": 7566,
+  "ename": "JONES",
+  "job": "MANAGER",
+  "mgr": 7839,
+  "hiredate": {
+    "$date": "1981-04-02T00:00:00.000Z"
+  },
+  "sal": 2975,
+  "comm": null,
+  "department": {
+    "deptno": 20,
+    "dname": "RESEARCH",
+    "loc": "DALLAS"
+  }
+},
+{
+  "_id": {
+    "$oid": "681c78b4d9c4fc45be1b84f5"
+  },
+  "empno": 7654,
+  "ename": "MARTIN",
+  "job": "SALESMAN",
+  "mgr": 7698,
+  "hiredate": {
+    "$date": "1981-09-28T00:00:00.000Z"
+  },
+  "sal": 1250,
+  "comm": 1400,
+  "department": {
+    "deptno": 30,
+    "dname": "SALES",
+    "loc": "CHICAGO"
+  }
+},
+{
+  "_id": {
+    "$oid": "681c78b4d9c4fc45be1b84f6"
+  },
+  "empno": 7698,
+  "ename": "BLAKE",
+  "job": "MANAGER",
+  "mgr": 7839,
+  "hiredate": {
+    "$date": "1981-05-01T00:00:00.000Z"
+  },
+  "sal": 2850,
+  "comm": null,
+  "department": {
+    "deptno": 30,
+    "dname": "SALES",
+    "loc": "CHICAGO"
+  }
+}]

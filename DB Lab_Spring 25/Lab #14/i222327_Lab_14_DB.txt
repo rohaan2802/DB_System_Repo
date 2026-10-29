@@ -1,0 +1,30 @@
+// 1. List all the employee names and their salaries
+
+db.employees.find(
+    {},
+    { ename: 1, sal: 1, _id: 0 }
+);
+
+
+//2. List all the employee names, jobs, and salaries who have not been given any commission
+
+
+db.employees.find(
+    { comm: null },
+    { ename: 1, job: 1, sal: 1, _id: 0 }
+);
+
+//3. List all the employee identity numbers, names, jobs, and salaries greater than 1500
+
+db.employees.find(
+    { sal: { $gt: 1500 } },
+    { empno: 1, ename: 1, job: 1, sal: 1, _id: 0 }
+);
+
+//4. List all the employee names and jobs who are not CLERK, ANALYST, and SALESMAN
+
+db.employees.find(
+    { job: { $nin: ["CLERK", "ANALYST", "SALESMAN"] } },
+    { ename: 1, job: 1, _id: 0 }
+);
+

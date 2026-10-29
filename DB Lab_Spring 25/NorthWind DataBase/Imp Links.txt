@@ -1,0 +1,7 @@
+Dear Students, do practice T-SQL thoroughly and go through these articles before lab exam
+
+https://learn.microsoft.com/en-us/sql/t-sql/functions/update-trigger-functions-transact-sql?view=sql-server-ver17
+
+https://learn.microsoft.com/en-us/sql/relational-databases/triggers/use-the-inserted-and-deleted-tables?view=sql-server-ver17
+
+https://careerfoundry.com/en/blog/data-analytics/case-statements-in-sql/

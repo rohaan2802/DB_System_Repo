@@ -1,0 +1,20 @@
+* text=auto
+*.sql text
+*.cs text diff=csharp
+*.php text diff=php
+*.md text
+*.sln text eol=crlf
+*.csproj text eol=crlf
+*.pdf binary
+*.doc binary
+*.docx binary
+*.ppt binary
+*.pptx binary
+*.xlsx binary
+*.accdb binary
+*.zip binary
+*.png binary
+*.PNG binary
+*.jpg binary
+*.webp binary
+*.dll binary

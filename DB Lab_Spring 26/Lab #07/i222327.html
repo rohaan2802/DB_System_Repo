@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+
+    <style>
+        body {
+            background-color: #f0f8ff;
+            font-family: Arial;
+            text-align: center;
+            padding: 40px;
+        }
+
+        h1 {
+            color: darkblue;
+        }
+
+        p {
+            color: #333;
+        }
+
+        input {
+            padding: 8px;
+            margin-top: 10px;
+        }
+
+        button {
+            padding: 8px 15px;
+            background-color: blue;
+            color: white;
+            border: none;
+            margin-left: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: darkblue;
+        }
+
+        #message {
+            margin-top: 20px;
+            font-weight: bold;
+            color: green;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <h1>My First Web Page</h1>
+
+    <p>
+        Hello! My name is Mohammad Rohaan. I am a student and I enjoy learning programming,
+        exploring technology, and playing games in my free time.
+    </p>
+
+    <input type="text" id="nameInput" placeholder="Enter your name">
+
+    <button onclick="greetUser()">Greet Me</button>
+
+    <p id="message"></p>
+
+    <script>
+        function greetUser() {
+
+            var name = document.getElementById("nameInput").value;
+
+            if(name == "") {
+        document.getElementById("message").textContent = "Please enter your name!";
+    }
+    else {
+        document.getElementById("message").textContent =
+        "Hello, " + name + "! Welcome to your first webpage.";
+    }
+
+        }
+    </script>
+
+</body>
+</html>

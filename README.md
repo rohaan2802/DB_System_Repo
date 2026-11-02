@@ -18,17 +18,39 @@ My Database Systems course work – thirteen lecture sets, textbooks, assignment
 
 ## Live Links
 
-| Link | Description |
+| What | Link |
 |---|---|
-| [Website](https://rohaan2802.github.io/DB_System_Repo/) | rohaan2802.github.io/DB_System_Repo/ |
-| [Repository](https://github.com/rohaan2802/DB_System_Repo) | github.com/rohaan2802/DB_System_Repo |
-| [Download ZIP](https://github.com/rohaan2802/DB_System_Repo/archive/refs/heads/main.zip) | The whole repository in one file |
-| [Lectures 1–13](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course) | Lecture slides, books, notes, assignments and quizzes |
-| [Labs – Spring 2025](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2025) | SQL Server, T-SQL, C# and MongoDB labs |
-| [Labs – Spring 2026](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026) | SQL Server, HTML, PHP and MySQL labs |
-| [Assignments](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Assignments) | Assignment statements and my solutions |
-| [Notes](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/NOTES) | My study notes |
-| [Textbooks](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Books) | Course reference books |
+| Repository | [rohaan2802/DB_System_Repo](https://github.com/rohaan2802/DB_System_Repo) |
+| Website (GitHub Pages) | [rohaan2802.github.io/DB_System_Repo](https://rohaan2802.github.io/DB_System_Repo/) |
+| Download whole repository (ZIP) | [main.zip](https://github.com/rohaan2802/DB_System_Repo/archive/refs/heads/main.zip) |
+| Course folder | [DB Course](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course) |
+| Lecture folder | [Lecture #01 (Introduction)](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Lecture%20%2301%20%28Introduction%29) |
+| Lecture folder | [Lecture #02 (DB Concepts)](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Lecture%20%2302%20%28DB%20Concepts%29) |
+| Lecture folder | [Lecture #03 (ERD)](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Lecture%20%2303%20%28ERD%29) |
+| Lecture folder | [Lecture #04 (EERD)](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Lecture%20%2304%20%28EERD%29) |
+| Lecture folder | [Lecture #05-06 (Mapping)](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Lecture%20%2305-06%20%28Mapping%29) |
+| Lecture folder | [Lecture #07 (Schema Definition)](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Lecture%20%2307%20%28Schema%20Definition%29) |
+| Lecture folder | [Lecture #08 (Relational Algebra)](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Lecture%20%2308%20%28Relational%20Algebra%29) |
+| Lecture folder | [Lecture #09-10 (Normalization)](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Lecture%20%2309-10%20%28Normalization%29) |
+| Lecture folder | [Lecture #11 (Relational Algebra)](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Lecture%20%2311%20%28Relational%20Algebra%29) |
+| Lecture folder | [Lecture #12 (Query Optimization)](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Lecture%20%2312%20%28Query%20Optimization%29) |
+| Lecture folder | [Lecture #13 (Transactions)](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Lecture%20%2313%20%28Transactions%29) |
+| Course folder | [Assignments](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Assignments) |
+| Course folder | [Quizes](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Quizes) |
+| Course folder | [DB FinalProject](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/DB%20FinalProject) |
+| Lab folder | [DB Lab_Spring 25](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2025) |
+| Lab folder | [DB Lab_Spring 25/Lab Exams](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2025/Lab%20Exams) |
+| Lab folder | [DB Lab_Spring 25/Lab #12 (DB_Lab_12)](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2025/Lab%20%2312) |
+| Lab folder | [DB Lab_Spring 26](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026) |
+| Lab folder | [DB Lab_Spring 26/DB_Final_Project](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026/DB_Final_Project) |
+| Study notes | [DB Course/NOTES](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/NOTES) |
+| Study notes | [Database-Keys.md](https://github.com/rohaan2802/DB_System_Repo/blob/main/DB%20Course/NOTES/Database-Keys.md) |
+| Study notes | [MongoDB-Notes.md](https://github.com/rohaan2802/DB_System_Repo/blob/main/DB%20Course/NOTES/MongoDB-Notes.md) |
+| Study notes | [Notes & Lab Mid Exam](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026/Notes%20%26%20Lab%20Mid%20Exam) |
+| Study notes | [Normalization.md](https://github.com/rohaan2802/DB_System_Repo/blob/main/DB%20Lab_Spring%2026/Notes%20%26%20Lab%20Mid%20Exam/Normalization.md) |
+| Other useful path | [DB Course/Books](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Books) |
+| Other useful path | [NorthWind DataBase.sql](https://github.com/rohaan2802/DB_System_Repo/blob/main/DB%20Lab_Spring%2025/NorthWind%20DataBase/NorthWind%20DataBase.sql) |
+| Other useful path | [LICENSE](https://github.com/rohaan2802/DB_System_Repo/blob/main/LICENSE) |
 
 ---
 

@@ -30,7 +30,6 @@ namespace i222327_Lab_12
             // TODO: This line of code loads data into the 'lab12DataSet1.User_Table' table. You can move, or remove it, as needed.
             //   this.Fill(this.lab12DataSet1.User_Table);
 
-
             this.BeginInvoke(new Action(() =>
             {
                 textBox3.Focus();
@@ -38,9 +37,6 @@ namespace i222327_Lab_12
               this.reportViewer1.RefreshReport();
             this.reportViewer1.RefreshReport();
             this.reportViewer1.RefreshReport();
-
-            reportViewer1.Dock = DockStyle.Fill;
-
         }
 
 
@@ -262,12 +258,12 @@ namespace i222327_Lab_12
 
         private void button6_Click(object sender, EventArgs e)
         {
-            // Connection string for the Northwind database
-            string connectionString = "Server=CODE-TECH\\SQLEXPRESS;Database=Northwind;Trusted_Connection=True;";
+            button7.Visible = true;
+            // Connection string for the database
+            string connectionString = "Server=CODE-TECH\\SQLEXPRESS;Database=Lab12;Trusted_Connection=True;";
             reportViewer1.Visible = true;
-
-            // SQL query to fetch data from the Customers table
-            string query = "SELECT CustomerID, CompanyName, ContactName, ContactTitle, City, Country FROM Customers";
+            // SQL query to fetch data for the report
+            string query = "SELECT UserID, UserName, UserPassword, Gender FROM User_Table";
 
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
@@ -292,7 +288,7 @@ namespace i222327_Lab_12
                         reportViewer1.LocalReport.ReportPath = "Report1.rdlc"; // Path to your report file
 
                         // Refresh the ReportViewer to display the report
-                        reportViewer1.RefreshReport();
+                         reportViewer1.RefreshReport();
                     }
                     catch (Exception ex)
                     {
@@ -302,7 +298,6 @@ namespace i222327_Lab_12
                 }
             }
         }
-
 
         private void reportViewer1_Leave(object sender, EventArgs e)
         {
@@ -322,11 +317,7 @@ namespace i222327_Lab_12
         private void button7_Click(object sender, EventArgs e)
         {
             reportViewer1.Visible = false;
-        }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
+            button7.Visible = false; // Hide the button after data is loaded
         }
     }
 }

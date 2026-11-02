@@ -106,7 +106,7 @@ Database Systems (CS-2005) and its lab (CL-2005) at FAST-NUCES Islamabad. The re
 | 09 | [T-SQL (1)](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2025/Lab%20%2309) | Variables, IF/ELSE, loops, stored procedures |
 | 10 | [T-SQL (2)](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2025/Lab%20%2310) | Functions, triggers and cursors |
 | 11 | [C# WinForms with SQL Server](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2025/Lab%20%2311) | CRUD forms connected to a SQL Server database |
-| 12 | [C# WinForms reports](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2025/Lab%20%2312) | DataSets and RDLC reports on Northwind |
+| 12 | [C# WinForms reports](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2025/Lab%20%2312) | Login form and an RDLC report built from the Lab12 database (User_Table) |
 | 13 | [Transactions](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2025/Lab%20%2313) | COMMIT, ROLLBACK and SAVE TRANSACTION |
 | 14 | [MongoDB](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2025/Lab%20%2314) | CRUD and queries in the Mongo shell |
 | M/F | [Lab exams](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2025/Lab%20Exams) | Mid (hospital system) and final (CliqueBait) solutions |

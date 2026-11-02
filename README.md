@@ -69,11 +69,11 @@ Database Systems (CS-2005) and its lab (CL-2005) at FAST-NUCES Islamabad. The re
 |---|---|
 | Lectures | 13 |
 | Lab folders | 32 (16 per semester, including exams and project) |
-| SQL scripts | 32 |
+| SQL scripts | 29 |
 | Study notes (Markdown) | 26 |
 | PDF documents | 50 |
 | Screenshots | 30 |
-| Files in total | 318 |
+| Files in total | 269 |
 
 ## Lectures
 
@@ -117,7 +117,7 @@ Database Systems (CS-2005) and its lab (CL-2005) at FAST-NUCES Islamabad. The re
 | Lab | Topic | Contents |
 |---|---|---|
 | 01 | [MS Access: tables, relations and forms](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026/Lab%20%2301) | First Access database |
-| 02 | [MS Access: queries and reports](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026/Lab%20%2302) | Painting Hire case study |
+| 02 | [MS Access: queries and reports](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026/Lab%20%2302) | Painting Hire case study (manual only; the solution is in Spring 2025 Lab 02) |
 | 03 | [Database login and basic SQL](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026/Lab%20%2303) | Relational model, DDL, DML, data dictionary |
 | 04 | [SQL functions, GROUP BY and views](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026/Lab%20%2304) | Aggregate, string, date and conversion functions |
 | 05 | [SQL DML practice](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026/Lab%20%2305) | Queries on the demo database |
@@ -130,7 +130,7 @@ Database Systems (CS-2005) and its lab (CL-2005) at FAST-NUCES Islamabad. The re
 | 12 | [ER mapping and PHP order forms](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026/Lab%20%2312) | Customer, product and order forms in PHP |
 | 13 | [T-SQL (1)](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026/Lab%20%2313) | Variables, control flow, stored procedures on Northwind |
 | 14 | [T-SQL (2)](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026/Lab%20%2314) | Functions, triggers and cursors |
-| 15 | [SQL transactions](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026/Lab%20%2315) | ACID, COMMIT, ROLLBACK, savepoints |
+| 15 | [SQL transactions](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026/Lab%20%2315) | ACID, COMMIT, ROLLBACK, savepoints (manual only; the same solution SQL is in Spring 2025 Lab 13) |
 | P | [Lab final project](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026/DB_Final_Project) | Spring 2026 database lab project statement |
 
 ## Books and Notes
@@ -138,7 +138,7 @@ Database Systems (CS-2005) and its lab (CL-2005) at FAST-NUCES Islamabad. The re
 | Folder | Contents |
 |---|---|
 | [Course notes](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/NOTES) | Study notes on keys, joins, SQL functions, MongoDB and more |
-| [Lab mid notes](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026/Notes%20%26%20Lab%20Mid%20Exam) | Schema, normalization, SQL vs NoSQL, PHP and sessional SQL |
+| [Lab mid notes](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Lab_Spring%2026/Notes%20%26%20Lab%20Mid%20Exam) | Schema, normalization, SQL vs NoSQL, PHP and a RideShare schema |
 | [Textbooks](https://github.com/rohaan2802/DB_System_Repo/tree/main/DB%20Course/Books) | Elmasri & Navathe, C. J. Date, Coronel & Rob |
 
 ## Assignments, Quizzes and Project
@@ -182,7 +182,7 @@ DB_System_Repo/
 │   ├── Lab #09/                            (3 files)
 │   ├── Lab #10/                            (2 files)
 │   ├── Lab #11/                            (17 files)
-│   ├── Lab #12/                            (85 files)
+│   ├── Lab #12/                            (43 files)
 │   ├── Lab #13/                            (2 files)
 │   ├── Lab #14/                            (4 files)
 │   ├── Lab Exams/                          (17 files)
@@ -190,21 +190,21 @@ DB_System_Repo/
 ├── DB Lab_Spring 26/
 │   ├── DB_Final_Project/                   (1 file)
 │   ├── Lab #01/                            (3 files)
-│   ├── Lab #02/                            (3 files)
+│   ├── Lab #02/                            (2 files)
 │   ├── Lab #03/                            (3 files)
 │   ├── Lab #04/                            (3 files)
 │   ├── Lab #05/                            (5 files)
 │   ├── Lab #06/                            (3 files)
 │   ├── Lab #07/                            (4 files)
-│   ├── Lab #08/                            (10 files)
+│   ├── Lab #08/                            (9 files)
 │   ├── Lab #09/                            (4 files)
-│   ├── Lab #10/                            (18 files)
+│   ├── Lab #10/                            (16 files)
 │   ├── Lab #11/                            (3 files)
-│   ├── Lab #12/                            (15 files)
+│   ├── Lab #12/                            (14 files)
 │   ├── Lab #13/                            (4 files)
 │   ├── Lab #14/                            (2 files)
-│   ├── Lab #15/                            (2 files)
-│   └── Notes & Lab Mid Exam/               (8 files)
+│   ├── Lab #15/                            (1 file)
+│   └── Notes & Lab Mid Exam/               (7 files)
 ├── assets/
 │   ├── screenshots/   30 images
 │   ├── thumbs/        gallery previews
